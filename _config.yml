@@ -111,7 +111,6 @@ deploy:
 # butterfly
 githubcalendar:
   enable: true
-  priority: 3
   enable_page: /
   user: yenmoc
   layout:
