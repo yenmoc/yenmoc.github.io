@@ -1,5 +1,5 @@
 - class_name: Links
-  class_desc: Reference
+  class_desc: Summary of links to reference content
   link_list:
     - name: Hexo
       link: https://hexo.io
