@@ -1400,8 +1400,6 @@ input::placeholder {
   background: url(/img/jazz.png);
   background-attachment: local;
   background-position: center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -3249,8 +3247,6 @@ h1.page-title + .tag-cloud-list {
   background: #49b1f5;
   background-attachment: scroll;
   background-position: bottom;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
 }
 #footer-wrap {
@@ -3279,8 +3275,6 @@ h1.page-title + .tag-cloud-list {
   width: 100%;
   background-color: #49b1f5;
   background-position: center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
   -webkit-transition: all 0.5s;
